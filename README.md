@@ -1,4 +1,4 @@
-The project of the interface for controlling ABB robots by Simulink.
+The Simulink library project of the interface for controlling ABB robots by Simulink.
 
 Project: ABB EGM
 Author: Paweł Obal 
